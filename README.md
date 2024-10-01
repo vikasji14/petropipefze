@@ -4,7 +4,7 @@
 <div align="center">
 <a href="https://petropipefze.vercel.app/">Demo</a>
 <span> · </span>
-<a href="https://vercel.com/templates/next.js/admin-dashboard-tailwind-postgres-react-nextjs">Clone & Deploy</a>
+<a href="https://vercel.com/githubinfovikas-projects/petropipefze/HWpSuzHoCUjouTeKmeE8f8a1KsR6">Clone & Deploy</a>
 <span>
 </div>
 
